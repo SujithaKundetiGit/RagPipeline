@@ -2,8 +2,6 @@
 *
 !.gitignore
 !requirements.txt
-!data/
-!data/**
 !source/
 !source/**
 

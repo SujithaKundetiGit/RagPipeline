@@ -4,6 +4,7 @@ myenv/lib/
 myenv/etc/
 myenv/share/
 myenv/pyvenv.cfg
+myenv/data/
 rag_env/
 __pycache__/
 *.pyc
@@ -17,3 +18,5 @@ __pycache__/
 .DS_Store
 .env
 .env.*
+faiss_index_custom/
+faiss_index_sample/
